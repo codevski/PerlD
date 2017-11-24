@@ -23,10 +23,6 @@ Extract to a folder and run perld.pl
 
     Fixed file input error.
 
-## Credits
-
-Saso Petrovski
-
 ## License
 
 The MIT License (MIT)
